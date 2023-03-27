@@ -14,10 +14,6 @@
 
 1B. DataSetDisasterTweetsTrueNews.csv
 
-2A. WELFake_DatasetFakes.csv
 
-2B. WELFake_DatasetTrues.csv
-
-Their initial sources:
+Their initial source:
 1. https://www.kaggle.com/code/hamditarek/fake-news-detection-on-twitter-eda
-2. https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
