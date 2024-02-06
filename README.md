@@ -1,4 +1,4 @@
-# SentimentAnalysisTwitterFakeNews
+# SentimentAnalysisFakeNews
 
 #Operation instructions: 
 
